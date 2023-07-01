@@ -20,8 +20,8 @@
     background-size: cover;
 }
 .right{
-    display: grid;
     width:65%;
+    display: grid;
     height:100%;
     background-color: chocolate;
 }
@@ -68,7 +68,7 @@
 .bottom-left{
     position:absolute;
     color:whitesmoke;
-    bottom: 0%;
+    bottom:0%;
     left:1%;
 }
 .upper-section{
